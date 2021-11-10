@@ -50,7 +50,7 @@ On another hand, it could be interesting to have a look into the Transformer Enc
 
 ## Conclusion 
 
-This repository presents a first insight on using Deep Learning to build road maps from trajectories. Although the preliminary results are still poor due to limited time and resources, and further comparisons with the current algorithms should be done, the current images obtained and the underlying findings allow for optimism and do not discard the feasibility of competitive deep learning approaches to tackle map construction.
+This repository presents a first insight on using Deep Learning to build road maps from trajectories. Although the preliminary results are still a bit poor due to limited time and resources, and further comparisons with the current map construction algorithms should be done, the current images obtained and the underlying findings allow for optimism and ratify the feasibility of competitive deep learning approaches to tackle map construction.
 
 # Repository structure
 
