@@ -56,7 +56,7 @@ This repository contains the following folders:
 
 - *data*: contains the trajectories (trips) and the road map (geometric graph) directly downloaded from [mapconstruction.org](mapconstruction.org)
 
-- *source*: contains two jupyter notebooks:
+- *source*: contains two jupyter notebooks (I have used Google Colab to train the neural network):
     - *create_dataset.ipynb*: contains the necessary code to load the raw files in folder *data* and turn them into samples ready to be processed by the neural network. It also contains a visualizer to show the input trajectories and the target image. In this script you can define the number of samples that are going to be created, their tile size, the rotation and the size of the image of the graph rasterization.
     - *train_model.ipynb*: contains the Pytorch definition of the architecture described in section _1.2 Architecture_ plus all the training routine: load the data and train the model. At the end of the notebook there is also the implementation to extract the intermediate results for individual trajectories as described in section _1.5  What is the neural network learning?_
 
