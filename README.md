@@ -65,4 +65,4 @@ This repository contains the following folders:
 
 # Acknowledgements
 
-This work would not have been possible without the enthusiasm and supervision of professor Rodrigo Silveira, who has helped to bring map construction and deep learning closer. I would also like to express my gratitude for being awarded a Santander-UPC Initiation to Research Grant (INIREC) grant.
+This work would not have been possible without the enthusiasm and supervision of professor Rodrigo Silveira, who has helped to bring map construction and deep learning closer. I would also like to express my gratitude for being awarded a Santander-UPC Initiation to Research Grant (INIREC).
