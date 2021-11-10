@@ -1,3 +1,5 @@
+If you want to know the purpose of this repo read "Deep Map Construction". If you want to know the content of this repo read "Repository structure".
+
 # Deep Map Construction
 
 This repository contains a deep learning approach for the Map Construction problem. 
